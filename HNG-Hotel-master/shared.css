@@ -88,6 +88,12 @@ span {
     
     display: none;
   }
+   .icon-ham{
+    filter: brightness(0) invert(1);
+  }
+  .icon-close{
+    filter: brightness(0) invert(1);
+  }
 
   .show-nav .icon-close {
     display: block;
