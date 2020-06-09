@@ -119,8 +119,14 @@ span {
   nav.menu li a {
     color: black;
   }
+  footer{
+    margin-top: 2rem;
+    flex-direction: column;
+    padding-bottom: 0.2rem;
+  }
   span{
-      margin: 0 1em;
+      margin: .5rem 1em;
+      text-align: center;
       font-size: 16px;
       line-height: 1;
   }
