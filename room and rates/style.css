@@ -14,11 +14,15 @@ body{
     background: rgb(3, 28, 41);
 }
 .heading{
-    margin-left:3vw;
+    /* margin-left:3vw; */
     margin-bottom: 20px;
-    width:280px;
+    text-align: center;
+    /* width:280px; */
     font-family: 'Poppins'
-}.heading span{
+}
+
+
+.heading span{
     margin:0 0 0 0;
     font-size: 30px;
 }
@@ -40,7 +44,7 @@ body{
 .box{
     display: flex;
     flex-direction: column;
-    width:45vw;
+    width:40vw;
     text-align: center;
     margin-bottom: 40px;
     background-color: rgb(2, 49, 75);
@@ -93,5 +97,6 @@ body{
     .heading{
         width:70%;
         margin-left:6vw;
+        text-align: left;
     }
 }

@@ -45,8 +45,10 @@ body{
 #ht-title{
     padding:  0;
     padding-top: 20px;
+  
     /* width: 38%; */
 }
+
 
 .heading{
     font-family: Centaur;
@@ -161,6 +163,7 @@ input#title {
 
     .heading{
         font-size: 68px;
+        text-align: left;
     }
 
     .subHeading{
